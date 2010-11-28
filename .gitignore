@@ -12,3 +12,11 @@ install-sh
 libtool
 ltmain.sh
 missing
+m4/libtool.m4
+m4/ltoptions.m4
+m4/ltsugar.m4
+m4/ltversion.m4
+m4/lt~obsolete.m4
+src/tools.hash_drv/csscompress
+src/tools/dspam_notify
+
