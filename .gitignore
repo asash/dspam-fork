@@ -19,4 +19,5 @@ m4/ltversion.m4
 m4/lt~obsolete.m4
 src/tools.hash_drv/csscompress
 src/tools/dspam_notify
+fork/build
 
